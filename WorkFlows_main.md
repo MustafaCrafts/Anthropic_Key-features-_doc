@@ -2,6 +2,9 @@
 
 **Date:** December 20, 2024
 
+For more information, see offical Docs [Anthropic Building Effective Agents](https://www.anthropic.com/research/building-effective-agents).
+
+
 This summary explains the basic building blocks and workflows for effective LLM agent systems in simple, desi-style English.
 
 ---

@@ -2,6 +2,9 @@
 
 **Date:** December 20, 2024
 
+For more information, see offical Docs [Anthropic Building Effective Agents](https://www.anthropic.com/research/building-effective-agents).
+
+
 ## Main Points
 
 - **Simple is Best:**  
